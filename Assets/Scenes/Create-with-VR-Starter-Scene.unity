@@ -989,7 +989,7 @@ MonoBehaviour:
   m_StartingSingleGrabTransformers: []
   m_StartingMultipleGrabTransformers: []
   m_AddDefaultGrabTransformers: 1
---- !u!21 &294147534
+--- !u!21 &261519201
 Material:
   serializedVersion: 8
   m_ObjectHideFlags: 0
@@ -5988,8 +5988,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3d4642753971e264fbb20044fa231cd5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  playAtStart: 1
-  videoMaterial: {fileID: 294147534}
+  playAtStart: 0
+  videoMaterial: {fileID: 261519201}
   videoClips:
   - {fileID: 32900000, guid: c675fc381244840f4900887e1b0870d7, type: 3}
 --- !u!328 &1779420275
